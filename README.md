@@ -149,7 +149,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bunbot](https://github.com/wobsoriano/bunbot) - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
-- [Bun Sticky](https://github.com/Wolfe-Jam/bun-sticky-faf) - FAF scoring for Bun. Zero-dependency Mk4 WASM kernel for instant AI-readiness project context scoring.
+- [Bun Sticky](https://github.com/Wolfe-Jam/bun-sticky-faf) - Project context scoring for Bun. Mk4 WASM kernel, zero dependencies, 369 tests.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 
 ## Community
